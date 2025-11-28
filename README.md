@@ -98,7 +98,4 @@ For questions or suggestions, feel free to open an issue in this repository or r
 
 ---
 
-Feel free to modify any of the sections — especially *Features*, *Usage*, and *Project Structure* — to better reflect your scripts and what they actually do.  
-Would you like me to generate a more detailed README (e.g., describing each script’s functionality, adding badges, etc.)?
-::contentReference[oaicite:1]{index=1}
-```
+
